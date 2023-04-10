@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    padding: 50vw 0 
+}
+
+
+
+.first{
+    background-color: rgb(3, 3, 3);
+    font-style: italic;
+    color: rgb(249, 249, 250);
+    padding: 2vw;
+    border: 1vw double rgb(121, 132, 148);
+
+}
+h1{
+
+    font-weight: bold;
+    text-align: center;
+
+}
+
+h2{
+
+    font-weight: bold;
+    text-align:right;
+
+}
